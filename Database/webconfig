@@ -1,0 +1,6 @@
+[conn]
+Driver={ODBC Driver 17 for SQL Server}
+Server=YOURSERVER
+Us=YOUR_USER
+Pwd=Your_PASSWORD
+Database1=DBACCESS
